@@ -45,7 +45,7 @@ With:
 port     : TCP port number.
 frametime: Delay between each motion line in microseconds.
            Set to 0 if frame time from BVH file should be used.
-format:    0 = Just send complete line as it is in BVH file.
+format   : 0 = Just send complete line as it is in BVH file.
            1 = Use Axis Neuron format.
 bvhfile  : Name and path of BVH file to be sent.
 

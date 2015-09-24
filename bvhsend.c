@@ -45,7 +45,7 @@ void help(void)
   printf("port     : TCP port number.\n");
   printf("frametime: Delay between each motion line in microseconds.\n");
   printf("           Set to 0 if frame time from BVH file should be used.\n");
-  printf("format:    0 = Just send complete line as it is in BVH file\n");
+  printf("format   : 0 = Just send complete line as it is in BVH file\n");
   printf("           1 = Use Axis Neuron format\n");
   printf("bvhfile  : Name and path of BVH file to be sent.\n");
   printf("---------------------------------------------------------------\n");
